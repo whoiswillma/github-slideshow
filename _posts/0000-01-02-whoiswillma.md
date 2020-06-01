@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I'm a student at 🌽🅻 university
 Use the left arrow to go back!
